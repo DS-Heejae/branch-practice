@@ -2,5 +2,4 @@
 
 ## users
 
-- agnes_hj: 이희재
-
+- agnes_hj: 이희재(Heejae Lee)
